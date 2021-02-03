@@ -10,3 +10,8 @@ I'm Anderson de Brito Oliveira, a Java developer 👨‍💻 who is passionate a
 - ⚡ Technologies: Java, Spring, JSF, Angular, React, JS
 
 "Do not expect from others what you expect of yourself." 
+
+## GitHub Stats and Most Used Languages
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=andersondebrito&hide=issues&theme=gruvbox&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersondebrito&layout=compact&theme=gruvbox&langs_count=10)](https://github.com/andersondebrito/github-readme-stats)
