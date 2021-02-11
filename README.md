@@ -1,5 +1,7 @@
 # Anderson de Brito Oliveira
 
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=andersondebrito&repo=andersondebrito&countColorcountColor)
+
 ## Hi 👋, 
 I'm Anderson de Brito Oliveira, a Java developer 👨‍💻 who is passionate about Java technologies and its entire ecosystem. 
 
