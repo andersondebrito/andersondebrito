@@ -12,8 +12,8 @@ I'm Anderson de Brito Oliveira, a Java developer 👨‍💻 who is passionate a
 
 "Do not expect from others what you expect of yourself." 
 
-## Follow me
-[![Linkedin Badge](https://img.shields.io/badge/-andersondebrito-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anderson-brito-oliveira/)](https://www.linkedin.com/in/anderson-brito-oliveira/)
+📫 How to reach me:
+[<img align="left" alt="anderson-brito-oliveira @ LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"> linkedin.com/in/anderson-brito-oliveira](https://linkedin.com/in/anderson-brito-oliveira)<br clear=all>
 
 ## GitHub Stats and Most Used Languages
 
