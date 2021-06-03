@@ -6,7 +6,7 @@
 I'm Anderson de Brito Oliveira, a Java developer 👨‍💻 who is passionate about Java technologies and its entire ecosystem. 
 
 - 🔭 I’m currently working on Java apps/systems
-- I have a B.Tech in System Analysis and development and a graduate certificate in Software Engineering([UNESA](https://portal.estacio.br/))
+- I have a Associate degree in Analysis and Systems development and a Postgraduate in Software Engineering([UNESA](https://portal.estacio.br/))
 - 💬 Ask me about: tech, travel, work abroad.
 - ⚡ Technologies: Java, Spring, JSF, Angular, React, JS
 
