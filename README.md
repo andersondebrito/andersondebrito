@@ -8,7 +8,7 @@ I'm Anderson de Brito Oliveira, a Java developer 👨‍💻 who is passionate a
 - 🔭 I’m currently working on Java apps/systems
 - I have an Associate degree in Analysis and Systems development and a Postgraduate in Software Engineering([UNESA](https://portal.estacio.br/))
 - 💬 Ask me about: tech, travel, work abroad.
-- ⚡ Technologies: Java, Spring, Spring Framework, Spring Boot, EJB, Struts, JSF, Angular, React, JS
+- ⚡ Technologies: Java, Spring, Spring Framework, Spring Boot, EJB, Struts, JSF, Angular, React
 
 "Do not expect from others what you expect of yourself." 
 
